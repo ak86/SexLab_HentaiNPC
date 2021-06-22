@@ -1,5 +1,5 @@
 <fomod>
-  <Name>HentaiNPC</Name>
+  <Name>SexLab Hentai NPC</Name>
   <Version>1.0</Version>
   <LastKnownVersion>
   </LastKnownVersion>
@@ -10,6 +10,13 @@
   <CustomCategoryId>0</CustomCategoryId>
   <IsEndorsed>False</IsEndorsed>
   <Description>
+  
+Requirements:
+Sex Animation Framework
+SKYUI
+SKSE
+
   </Description>
   <UpdateWarningEnabled>False</UpdateWarningEnabled>
+  <Website>https://www.patreon.com/Ed86</Website>
 </fomod>
